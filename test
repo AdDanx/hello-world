@@ -1,0 +1,133 @@
+ /tool netwatch add host=192.168.1.254 timeout=500ms interval=5s
+     up-script= 
+]:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=932 length=1000ms;
+:delay 1010ms;
+:beep frequency=1397 length=1000ms;
+:delay 1010ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=167ms;
+:delay 177ms;
+:beep frequency=1865 length=1000ms;
+:delay 1010ms;
+:beep frequency=1397 length=500ms;
+:delay 510ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=167ms;
+:delay 177ms;
+:beep frequency=1865 length=1000ms;s
+:delay 1010ms;
+:beep frequency=1397 length=500ms;
+:delay 510ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=667ms;
+:delay 677ms;
+:delay 333ms;
+
+:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=698 length=167ms;
+:delay 177ms;
+:beep frequency=932 length=1000ms;
+:delay 1010ms;
+:beep frequency=1397 length=1000ms;
+:delay 1010ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=167ms;
+:delay 177ms;
+:beep frequency=1865 length=1000ms;
+:delay 1010ms;
+:beep frequency=1397 length=500ms;
+:delay 510ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=167ms;
+:delay 177ms;
+:beep frequency=1865 length=1000ms;
+:delay 1010ms;
+:beep frequency=1397 length=500ms;
+:delay 510ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1175 length=167ms;
+:delay 177ms;
+:beep frequency=1245 length=167ms;
+:delay 177ms;
+:beep frequency=1047 length=667ms;
+:delay 677ms;
+     down-script= 
+:beep frequency=500 length=500ms;
+:delay 500ms;
+ 
+:beep frequency=500 length=500ms;
+:delay 500ms;
+
+:beep frequency=500 length=500ms;
+:delay 500ms;
+
+:beep frequency=400 length=500ms;
+:delay 400ms;
+
+:beep frequency=600 length=200ms;
+:delay 100ms;
+
+:beep frequency=500 length=500ms;
+:delay 500ms;
+
+:beep frequency=400 length=500ms;
+:delay 400ms;
+
+:beep frequency=600 length=200ms;
+:delay 100ms;
+
+:beep frequency=500 length=500ms;
+:delay 1000ms;
+:beep frequency=750 length=500ms;
+:delay 500ms;
+
+:beep frequency=750 length=500ms;
+:delay 500ms;
+
+:beep frequency=750 length=500ms;
+:delay 500ms;
+
+:beep frequency=810 length=500ms;
+:delay 400ms;
+
+:beep frequency=600 length=200ms;
+:delay 100ms;
+
+:beep frequency=470 length=500ms;
+:delay 500ms;
+
+:beep frequency=400 length=500ms;
+:delay 400ms;
+
+:beep frequency=600 length=200ms;
+:delay 100ms;
+
+:beep frequency=500 length=500ms;
+:delay 1000ms;
